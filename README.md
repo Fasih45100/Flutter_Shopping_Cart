@@ -1,4 +1,4 @@
-# 🛒 Shopping Cart App – Flutter
+# 🛒 Shopping Cart Flutter App
 
 A sleek and functional Flutter shopping cart app built for learning, testing, and showcasing e-commerce UI logic and functionality. The app supports cart management, product listing, state management, local database storage, and persistent data using `shared_preferences` and `sqflite`.
 

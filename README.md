@@ -12,7 +12,6 @@ A sleek and functional Flutter shopping cart app built for learning, testing, an
 - 📱 Responsive and user-friendly UI
 - 🖼️ Asset management for product images
 
-## 📸 Screenshots
 
 <h2>📸 Screenshots</h2>
 <p align="center">

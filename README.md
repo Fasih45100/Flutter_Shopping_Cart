@@ -18,22 +18,18 @@ A sleek and functional Flutter shopping cart app built for learning, testing, an
 |-----------|-----------|-------------|
 | ![home](images/screenshots/home.png) | ![cart](images/screenshots/cart.png) | ![empty](images/empty_cart.jpg) |
 
-> 💡 Replace screenshots with your actual app images in `images/screenshots/`.
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
+
 Flutter – Cross-platform UI toolkit
-
 Dart – Programming language for Flutter
-
 Provider – Simple and efficient state management
-
 SQLite (sqflite) – Local database for storing cart items
-
 Shared Preferences – Lightweight key-value storage
-
 Badges – To show cart item count in real-time
 
-📦 Dependencies
+## 📦 Dependencies
+
 dependencies:
   flutter:
     sdk: flutter
@@ -44,34 +40,32 @@ dependencies:
   badges: ^3.1.2
   provider: ^6.1.5
 
-  💡 Customization Tips
-Add Products: Modify or extend the product list in your model or data file.
-
+  ## 💡 Customization Tips
+  
+  Add Products: Modify or extend the product list in your model or data file.
 Change UI Theme: Tweak colors and styles inside ThemeData in main.dart.
-
 Persistent Cart: Customize the sqflite integration to suit your database schema.
-
 App Branding: Update app icons and name using flutter_launcher_icons or manually via Android/iOS config files.
 
-🙌 Acknowledgements
-Thanks to the Flutter and Dart teams for amazing documentation and open-source support.
+## 🙌 Acknowledgements
 
+Thanks to the Flutter and Dart teams for amazing documentation and open-source support.
 Icons and assets inspired by public domain and educational sources.
 
-📄 License
+## 📄 License
+
 This project is licensed under the MIT License.
 See the LICENSE file for more information.
 
 ## 🚀 Getting Started
 
 Follow these instructions to get a local copy of the app up and running
-
 git clone https://github.com/your-username/shoping_cartf.git
 cd shoping_cartf
 flutter pub get
 flutter run
 
-💼 Created by Fasih
-Contact me if you're looking for a Flutter developer or want to collaborate!
+## 💼 Created by Fasih
 
+Contact me if you're looking for a Flutter developer or want to collaborate!
 💬 Feel free to ⭐ this repo or fork it to build your own version!

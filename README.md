@@ -16,8 +16,9 @@ A sleek and functional Flutter shopping cart app built for learning, testing, an
 
 <h2>📸 Screenshots</h2>
 <p align="center">
-  <img src="lib/screenshots/Screenshot_20250624_100941.jpg" alt="Home" width="200"/>
-  <img src="lib/screenshots/Screenshot_20250624_101008.jpg" alt="About" width="200"/>
+  <img src="lib/screenshots/Screenshot_20250624_100941.jpg" alt="Product List" width="200"/>
+  <img src="lib/screenshots/Screenshot_20250624_101008.jpg" alt="Cart" width="200"/>
+  <img src="lib/screenshots/Screenshot_20250625_135350.jpg" alt="Blank Cart" width="200"/>
 </p>
 
 

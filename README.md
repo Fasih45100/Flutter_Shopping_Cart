@@ -62,6 +62,15 @@ Icons and assets inspired by public domain and educational sources.
 This project is licensed under the MIT License.
 See the LICENSE file for more information.
 
+## 🚀 Getting Started
+
+Follow these instructions to get a local copy of the app up and running
+
+git clone https://github.com/your-username/shoping_cartf.git
+cd shoping_cartf
+flutter pub get
+flutter run
+
 💼 Created by Fasih
 Contact me if you're looking for a Flutter developer or want to collaborate!
 
